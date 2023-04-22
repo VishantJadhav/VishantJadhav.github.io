@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/VishantJadhav.github.io/static/css/main.abd64e84.css",
+    "main.js": "/VishantJadhav.github.io/static/js/main.2a86c3ef.js",
+    "static/js/787.4c026eef.chunk.js": "/VishantJadhav.github.io/static/js/787.4c026eef.chunk.js",
+    "static/media/loading.gif": "/VishantJadhav.github.io/static/media/loading.d3fbaf2b81fd92c49692.gif",
+    "index.html": "/VishantJadhav.github.io/index.html",
+    "main.abd64e84.css.map": "/VishantJadhav.github.io/static/css/main.abd64e84.css.map",
+    "main.2a86c3ef.js.map": "/VishantJadhav.github.io/static/js/main.2a86c3ef.js.map",
+    "787.4c026eef.chunk.js.map": "/VishantJadhav.github.io/static/js/787.4c026eef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.2a86c3ef.js"
+  ]
+}
